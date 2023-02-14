@@ -1,0 +1,12 @@
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\University\SP_SPRING2023\PRN211_C#\Lab1_LeThiThuyVy_Ce160174\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
